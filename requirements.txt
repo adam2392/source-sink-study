@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+scikit-learn
+joblib
+mlxtend
+pingouin
+dabest
+seaborn
+matplotlib
+natsort
+tqdm
+mne-bids
+mne
